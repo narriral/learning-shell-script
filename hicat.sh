@@ -3,7 +3,7 @@
 # So, when you feel blue
 # You start the program by using
 # bash hicat.sh
-# and the cat you send you a special random msg
+# and the cat will send you a special random msg
 #######################################################
 #      \    /\
 #       )  ( ')
